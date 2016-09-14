@@ -1,2 +1,4 @@
 # legalipsum
-lorem ipsum generator of legal maxims
+Lorem ipsum generator of legal maxims.
+
+Work in progress. Come back later.
